@@ -1,0 +1,14 @@
+C:\Users\amrullahm\Documents\GitHub\4a-unityproject-s11514411\TestProject\bin\Debug\net7.0\TestProject.exe
+C:\Users\amrullahm\Documents\GitHub\4a-unityproject-s11514411\TestProject\bin\Debug\net7.0\TestProject.deps.json
+C:\Users\amrullahm\Documents\GitHub\4a-unityproject-s11514411\TestProject\bin\Debug\net7.0\TestProject.runtimeconfig.json
+C:\Users\amrullahm\Documents\GitHub\4a-unityproject-s11514411\TestProject\bin\Debug\net7.0\TestProject.dll
+C:\Users\amrullahm\Documents\GitHub\4a-unityproject-s11514411\TestProject\bin\Debug\net7.0\TestProject.pdb
+C:\Users\amrullahm\Documents\GitHub\4a-unityproject-s11514411\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amrullahm\Documents\GitHub\4a-unityproject-s11514411\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\amrullahm\Documents\GitHub\4a-unityproject-s11514411\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+C:\Users\amrullahm\Documents\GitHub\4a-unityproject-s11514411\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\amrullahm\Documents\GitHub\4a-unityproject-s11514411\TestProject\obj\Debug\net7.0\TestProject.dll
+C:\Users\amrullahm\Documents\GitHub\4a-unityproject-s11514411\TestProject\obj\Debug\net7.0\refint\TestProject.dll
+C:\Users\amrullahm\Documents\GitHub\4a-unityproject-s11514411\TestProject\obj\Debug\net7.0\TestProject.pdb
+C:\Users\amrullahm\Documents\GitHub\4a-unityproject-s11514411\TestProject\obj\Debug\net7.0\TestProject.genruntimeconfig.cache
+C:\Users\amrullahm\Documents\GitHub\4a-unityproject-s11514411\TestProject\obj\Debug\net7.0\ref\TestProject.dll
